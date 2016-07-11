@@ -1,0 +1,172 @@
+body{
+	background:#fff;
+	font: 100% Georgia, "Times New Roman", Times, serif;
+	width:960px;
+	margin: 0 auto 2em;
+	height:auto;
+}
+header{
+	background: gold;
+	margin-bottom:16px;
+	height: 96px;
+	padding: 32px 0 32px 32px;
+	//position:fixed;
+	clear:right;
+	}
+.col-nav{
+	clear:both;
+	float:left;
+	padding-left:32px;
+	width:168px;
+	padding-right:16px;
+	background: gold;
+	position: fixed;
+	height:500px;
+}
+.col-2 {
+	clear:both;
+	float:right;
+	width:699px;
+	padding:0 32px 0 16px;
+	
+}
+.col-nav p{
+	display:block;
+	padding:0 30px;
+}
+.col-nav p a{
+	text-decoration: none;
+	font-size:20px;
+}
+
+.col-nav p {
+	text-decoration:none;
+}
+
+.col-nav p:hover{
+	background-color: white;
+}
+.col-nav p a:visited{
+	color:grey;
+}
+.col-nav p a:unvisited{
+	color:white;
+}
+.col-nav{
+	
+		line-height:4em;
+		
+		}
+
+.product-thumb img {
+	height:150px;
+	width: 200px;
+	display: inline;
+	margin: 5px;
+	
+}
+
+.product-list .product { 
+	display:block;
+	padding:5px;
+	width:150px;
+	height:150px;
+	float:left;
+	margin: 25px 100px 50px 0;
+	text-align: center;
+}
+ .product-thumb span{
+	text-align: center;
+	margin-left: 25px;
+}
+
+.logo {
+	float: left;
+
+}
+.logo img {
+	height:100px;
+	width:100px;
+	padding: 0 0 10px 0;
+	
+}
+.login{
+	float:right;
+	padding:16px 32px 0 0 ;
+}
+.footer{
+		height: 150px;
+		width:960px;
+		clear:both;
+		background-color: gold	;
+		position:absolute;
+		bottom:0;
+		color:red;
+}
+.footer ul{
+	list-style-type:none;
+}
+.footer-1{
+	height:45px;
+	padding: 2.5px;
+	margin: 0 20px;
+	width:275px;
+	float:left;
+	list-style-type:none;
+}
+.footer-2{
+	height:45px;
+	padding: 2.5px;
+	margin: 0 20px;
+	width:275px;
+	float:left;
+	list-style-type:none;
+}
+
+.footer-3{
+	height:105px;
+	padding: 2.5px;
+	margin:0 20px;
+	width:275px;
+	float:left;
+	list-style-type:none;
+	
+}
+.footer-1 h3, .footer-2 h3, footer-1 h3{
+	text-align:center;
+	margin: 0 auto;
+}
+.product-table,th,tr,td{
+	border: 1px solid black;
+	padding: 10px;
+	text-align:center;
+}
+
+.Payment-Form{
+	width:500px;
+	
+}
+.Payment-Form form{
+
+	margin:0 auto;
+	
+	
+}
+.Payment-Form input{
+	width:300px;
+	line-height: 1.5em;
+	margin-top:30px;
+	
+	
+}
+.Payment-Form select, button{
+	
+	margin-top:30px;
+}
+.Purchase{
+	width:85px;
+	height:20px;
+	background:green;
+	text-align:center;
+	
+}

@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.div {color:#000000;
+		float:left;
+		padding-right: 50px;}
+
+div {color:#000000;}
+
+#submit {margin-left: 110px;
+width: 100px; height: 35px}
+
+.box {
+	float:left;
+	display:block;
+	margin: 50px;
+	
+}
